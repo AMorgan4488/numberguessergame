@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WgsZy7xB9bdPHCtSAr7vSzsdA0UmEInk0c5CVszVlGEy+w1qyW3P3m/QdfZDLrPNTgHsIx6Qe7IbCr32tnboXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amorg\\onedrive\\desktop\\projects\\numberguesser\\project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amorg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
